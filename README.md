@@ -1,7 +1,5 @@
 # CORONAVIRUS TWEET SENTIMENT ANALYSIS
 
-![tweet header](https://user-images.githubusercontent.com/107639055/188276827-a3b1e9d2-88f2-4b07-80b0-e66da7915abd.png)
-
 ### 📋 PROBLEM STATEMENT:
 
 This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done then.
@@ -37,12 +35,3 @@ The objective of our analysis revolved around knowing the sentiments of people f
 -	Even being in the unprecedented situation of CoVid-19, people's positive sentiments outnumbered negative sentiments. 
 -	However, negative sentiments also has a significant chunk which various Government agencies, NGOs, etc can use to help boost the morale of the people and then
 -	In the future ,we can repeat the analysis and compare it with the present sentimental analysis to gauge the impact of the initiatives on the ground.
-
-### 📜 CREDITS:
-
-[Gaurav Malakar](https://github.com/gauravmalakar08) | [Anup A. Jambulkar](https://github.com/anup-anny) | [Ankit Walde](https://github.com/AnkitWalde) | [Anil Bhatt](https://github.com/anilbhatt-DataAnalyst) | [Vibhu Sharma](https://github.com/vbhsharma7)
-
-### 📚 References
-Random Forest Regressor - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html 
-
-Gradient Boosting Documentation - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
